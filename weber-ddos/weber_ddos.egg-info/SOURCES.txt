@@ -1,0 +1,9 @@
+setup.py
+weber_ddos/__init__.py
+weber_ddos/__main__.py
+weber_ddos.egg-info/PKG-INFO
+weber_ddos.egg-info/SOURCES.txt
+weber_ddos.egg-info/dependency_links.txt
+weber_ddos.egg-info/entry_points.txt
+weber_ddos.egg-info/requires.txt
+weber_ddos.egg-info/top_level.txt

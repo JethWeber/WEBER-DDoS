@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: weber-ddos
+Version: 1.0
+Summary: Ferramenta para executar ataques DDoS robustos
+Author: Jeth Weber
+Requires-Dist: pyfiglet
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

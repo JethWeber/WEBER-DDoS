@@ -1,0 +1,2 @@
+[console_scripts]
+weber = weber_ddos.__main__:main
